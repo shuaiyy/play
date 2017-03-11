@@ -23,8 +23,11 @@
 <div class="alert alert-success alert-dismissible"role="alert">
 <button type="button"class="close"data-dismiss="alert">
 <span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-<strong>哦哟~精彩从下面开始(´・ω・`)支持手机哦</strong>
+<strong>哦哟~精彩马上开始(´・ω・`) 支持手机哦</strong>
+<br>
 <strong>下面即将播放优酷VIP电影《28岁未成年》</strong>
+<br>
+<strong>如果解析时间长请刷新 (*^__^*) </strong>
 </div>
 <div class="col-md-14 column">
 <div class="panel panel-default"><div id="kj"class="panel-body">
